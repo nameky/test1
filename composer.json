@@ -1,20 +1,20 @@
 {
-  "name": "zqy234/terrytest",
+  "name": "nameky/test",
   "description": "Yii2 zqy234 terrytest",
   "keywords": [
     "yii2",
     "terrytest"
   ],
-  "homepage": "https://github.com/zqy234/terrytest",
+  "homepage": "https://github.com/nameky/test1",
   "type": "yii2-extension",
   "license": "MIT",
   "support": {
-    "source": "https://github.com/zqy234/terrytest"
+    "source": "https://github.com/nameky/test1"
   },
   "authors": [
     {
-      "name": "terry water",
-      "email": "zqy234@126.com"
+      "name": "namek",
+      "email": "jiaxiaoboo@163.com"
     }
   ],
   "minimum-stability": "stable",
